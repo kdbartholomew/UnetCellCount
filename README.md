@@ -4,7 +4,7 @@
 
 This project trains a U-Net convolutional neural network to segment and count cells in 128x128 grayscale microscopy images. The model learns to produce binary segmentation masks that identify cell regions, then uses connected-component analysis to count individual cells in each image.
 
-The project was developed for MSDS 373 (Deep Learning) and demonstrates end-to-end biomedical image segmentation: data loading, model training, qualitative evaluation, and automated cell counting on held-out test images.
+The project was developed for USF Schroeder Lab and demonstrates end-to-end biomedical image segmentation: data loading, model training, qualitative evaluation, and automated cell counting on held-out test images.
 
 ## Architecture
 
