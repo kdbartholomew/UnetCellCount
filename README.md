@@ -24,12 +24,6 @@ The model follows the standard U-Net encoder-decoder structure ([Ronneberger et 
 | Optimizer | Adam |
 | Loss Function | BCEWithLogitsLoss |
 
-![Training Curves](images/training_curves.png)
-
-![Segmentation Results](images/segmentation_results.png)
-
-> Save these images from the notebook after training to populate the figures above.
-
 ## Setup
 
 1. Install dependencies:
